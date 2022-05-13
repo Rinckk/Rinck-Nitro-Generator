@@ -13,7 +13,7 @@ while True:
         randomNitro = f"{randomNitro}{random.choice(characters)}"
 
     print(f"Rinck » https://discord.gift/{randomNitro}") 
-    time.sleep(0.005)
+    time.sleep(0.001)
 
     with open("./Codes/codes.txt", "a+") as codesF:
 
