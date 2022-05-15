@@ -1,5 +1,5 @@
 # Rinck-Nitro-Generator
-Rinck-Nitro-Generator `release 1.0.0`
+Rinck-Nitro-Generator `release 1.1.1`
 
 ## Description
 A simple Discord Nitro generator for discord... In this release it will only generate the nitro codes and will be placed in the `Codes` folder in the `codes.txt` file!
