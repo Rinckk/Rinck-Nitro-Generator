@@ -1,13 +1,19 @@
 # Rinck-Nitro-Generator
-Rinck-Nitro-Generator `release 1.0.0`
+Rinck-Nitro-Generator `release 1.1.2`
 
 ## Description
 A simple Discord Nitro generator for discord... In this release it will only generate the nitro codes and will be placed in the `Codes` folder in the `codes.txt` file!
 
 As times goes on new releases will come out such as a Checker and Discord Webhooks...
 
+## Requirements
+ 1. Colorama
+ ```sh
+ pip3 install colorama
+ ```
+
 ### Prerequisites
-You need to install Python, that can be done [here](https://www.python.org)
+You need to install `Python 3.9.12`, that can be done [here](https://www.python.org)
 
 ## Installation
   1. Clone the Repository
