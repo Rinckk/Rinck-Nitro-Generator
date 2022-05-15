@@ -1,6 +1,10 @@
 import random
 import time
 import os
+import colorama 
+from colorama import Fore
+
+colorama.init()
 
 os.system('TITLE Rinck#0001 » Rinck-Nitro-Generator')
 
@@ -12,7 +16,7 @@ while True:
     for i in range(16):
         Nitro = f"{Nitro}{random.choice(characters)}"
 
-    print(f"Rinck » https://discord.gift/{Nitro}") 
+    print(f"{Fore.RED}[INVALID]{Fore.RESET} » https://discord.gift/{Nitro}") 
     time.sleep(0.001)
 
     with open("./Codes/codes.txt", "a+") as codesF:
