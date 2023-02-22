@@ -6,6 +6,8 @@ A simple Discord Nitro generator for discord... In this release it will only gen
 
 As times goes on new releases will come out such as a Checker and Discord Webhooks...
 
+IT DOES NOT WORK!
+
 ## Requirements
  1. Python 3.9.12.
  2. Python Requests
